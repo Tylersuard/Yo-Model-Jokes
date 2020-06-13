@@ -1,6 +1,6 @@
 # Yo-Model-Jokes
 ## Instead of "Yo Mama" jokes, post "Yo Model" Jokes!
-
+(for machine learning models)
 
 * Yo model's so stupid, it thought bagging was only done at checkout counters (u/particleswarm)
 
