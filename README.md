@@ -4,6 +4,8 @@
 
 * Yo model's so stupid, it thought bagging was only done at checkout counters (u/particleswarm)
 
+* You don't need to make hidden layers, they hide when they see you coming.
+
 * Yo model's so bad it's learning rate is higher than it's accuracy. (u/RedditHG)
 
 * Yo model's so stupid it uses a ruler to see how long it trains
