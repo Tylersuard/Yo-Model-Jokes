@@ -58,4 +58,6 @@
 
 * Yo model has more dropouts than my high school.
 
+* Not even gradient descent can make your weight go down.
+
 * Your AI company is such a scam, the transformer you built rolled out. u/leonardishere
